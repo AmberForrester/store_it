@@ -17,6 +17,7 @@ import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { createAccount } from "@/lib/actions/user.actions";
+import OtpModal from "@/components/OTPModal";
 
 
 
@@ -143,7 +144,9 @@ const onSubmit = async (values: z.infer<typeof formSchema>) => {
       </form>
     </Form>
 
-    {/* OTP VERIFICATION */}
+    {accountId && (
+        <OtpModal email={form.getValues("email")} accountId={accountId}/>
+    )}
     </>
   );
 };
