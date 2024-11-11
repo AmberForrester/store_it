@@ -2,7 +2,7 @@ import { cn, formatDateTime } from "@/lib/utils";
 
 
 
-const FormattedDateTime = ({
+export const FormattedDateTime = ({
     date,
     className
 }: {

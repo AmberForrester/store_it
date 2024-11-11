@@ -11,7 +11,7 @@ interface Props {
     className?: string;
 }
 
-const Thumbnail = ({ 
+export const Thumbnail = ({ 
     type, 
     extension, 
     url = "",
