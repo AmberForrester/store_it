@@ -33,7 +33,6 @@ const Page = async ({ searchParams, params }: SearchParamProps) => {
             </div>
         </section>
 
-        {/* RENDER THE FILES DYNAMICALLY */}
         {files.total > 0 ? (
             <section className="file-list">
                 {files.documents.map((file: Models.Document) => (
