@@ -168,7 +168,7 @@ Please take some time to check out the links below! I found value in each and ev
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
 
-Source links below will assist you with OTP Log In, Next.js Server Action, and Log Out -
+<p align="center">Source links below will assist you with OTP Log In, Next.js Server Action, and Log Out</p>
 
 OTP Log In - 
 - https://appwrite.io/docs/products/auth/email-otp/ 
