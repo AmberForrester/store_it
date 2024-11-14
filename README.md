@@ -42,12 +42,14 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 
 
 ## Features
-- **Modern User Interface:** Enjoy a sleek and intuitive design that prioritizes user experience, making navigation and interaction seamless.
-- **AI-Powered Summary Generation:** Quickly summarize lengthy articles by simply pasting the URL. The app uses OpenAI's GPT-4 to generate concise, insightful summaries that capture the essence of the content.
-- **Local History Management:** Automatically saves summaries in your local storage, allowing you to access and manage your reading history effortlessly. 
-- **Quick Copy to Clipboard:** Copy summaries to your clipboard for sharing or storing, creating easily access to your summarized content.
-- **Delete Functionality:** Keep your history organized by deleting individual summaries with a single click, using an intuitive close icon.
-- **Optimized API Requests with RTK Query:** Leverage Redux Toolkit (RTK) Query for efficient, conditional API requests that only fire when needed, optimizing data retrieval and app performance.
+- **Secure User Authentication with Appwrite:** Enable easy signup, login, and logout functions powered by Appwrite’s robust authentication system for a safe user experience.
+- **Effortless File Uploads:** Upload various file types—documents, images, videos, and audio—seamlessly, ensuring all your important data is securely stored.
+- **Comprehensive File Management:** Automatically saves summaries in your local storage, allowing you to access and manage your reading history effortlessly. 
+- **Simple File Sharing:** Share uploaded files effortlessly, fostering collaboration and granting others easy access to vital content.
+- **Insightful Dashboard Overview:** Get a quick overview of your storage with a dynamic dashboard displaying total and consumed storage, recent uploads, and a categorized file summary.
+- **Advanced Global Search:** Find files and shared content across the platform swiftly with an enhanced global search feature for quick access.
+- **Flexible Sorting Options:** Organize files by date, name, or size, ensuring smooth and efficient file management tailored to your needs.
+- **Modern, Responsive Design:** Enjoy a clean, minimalist UI that prioritizes usability, offering a seamless experience across all devices.
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
@@ -137,6 +139,8 @@ This step will prevent the `.env.local` file from being tracked by Git and keep 
 
 # Storage Dashboard
 <img src="/public/assets/images/StorageDashboard.png" alt="Storage Dashboard">
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
 
 
 
