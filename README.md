@@ -172,7 +172,7 @@ Please take some time to check out the links below! I found value in each and ev
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
 
 > [!TIP]
-> The source links below will assist you with OTP Log In, Next.js Server Action, and Log Out :
+> Source links below will assist you with OTP Log In, Next.js Server Action, and Log Out:
 >
 > OTP Log In - 
 > https://appwrite.io/docs/products/auth/email-otp/
