@@ -1,27 +1,27 @@
 <a id="readme-top"></a>
 
-<h1 align="center">StoreIt | File Sharing and Storage Platform 📥</h1> 
+<h1 align="center">StoreIt | Your personal cloud, reimagined! 📥</h1> 
 
 <div align="center">
 
 <img src="/public/assets/images/StorageDashboard.png" alt="Picture of QuickGist an open-source summarizer that converts lengthy articles into clear and concise insights.">
 
-<p align="center">QuickGist makes reading smarter and faster by delivering essential insights from lengthy articles. This open-source summarizer leverages AI to condense information into concise summaries, giving you the core takeaways at a glance.
+<p align="center">StoreIt is a sleek, modern storage and file-sharing platform, inspired by Google Drive that takes the hassle out of managing files. Built with the cutting edge- Next.js 15 and supercharged by the Appwrite Node SDK, it lets you upload, organize, and share your files with ease. 
 <br/>
 <br/>
-With QuickGist, deep-dive into knowledge or skim for key points effortlessly, keeping your reading efficient and impactful.
+Whether you are a solo user or team, StoreIt keeps your files just a click away, ready to go whereever you need them. Dive in and take control of your digital storage like never before! 
 <br />
 <br />
 
-<a href="https://storeit.amberforrester.io">QuickGist Live Link</a>
+<a href="https://storeit.amberforrester.io">StoreIt Live Link</a>
 .
-<a href="https://github.com/AmberForrester/QuickGist"><strong>Source Code</strong></a>
+<a href="https://github.com/AmberForrester/store_it"><strong>Source Code</strong></a>
 
 
 <br />
-<a href="https://github.com/AmberForrester/QuickGist/issues/new?assignees=&labels=bug&projects=&template=bug-report-%F0%9F%90%9E.md&title=">Report Bug</a>
+<a href="https://github.com/AmberForrester/store_it/issues/new?assignees=&labels=bug&projects=&template=bug-report-%F0%9F%90%9E.md&title=">Report Bug</a>
 .
-<a href="https://github.com/AmberForrester/QuickGist/issues/new?assignees=&labels=enhancement&projects=&template=feature-request-%F0%9F%9A%80.md&title=">Request Feature</a>
+<a href="https://github.com/AmberForrester/store_it/issues/new?assignees=&labels=enhancement&projects=&template=feature-request-%F0%9F%9A%80.md&title=">Request Feature</a>
 </p>
 </div>
 
@@ -56,11 +56,11 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 ## Installation
 
 ### Prerequisites
-- **React.js:** [React](https://react.dev/learn/start-a-new-react-project).
-- **Vite:** [Vite](https://vite.dev/guide/)
-- **Redux Toolkit:** [Redux Toolkit Store](https://redux-toolkit.js.org/api/configureStore)
-- **Tailwind CSS:** [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
-- **Rapid API Account:** [Rapid API](https://rapidapi.com/) Create an account to receive your Rapid API Key needed for this project.
+- **Next.js:** [NEXT.js](https://nextjs.org/).
+- **Shadcn/ui:** [shadcn/ui](https://ui.shadcn.com/)
+- **Node.js:** [Node.js](https://nodejs.org/en)
+- **Tailwind CSS:** [Tailwind CSS](https://tailwindcss.com/)
+- **Appwrite:** [Appwrite](https://appwrite.io/) Create an account to receive your Appwrite credentials, and create a new project.
 
 
 
@@ -154,8 +154,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Please take some time to check out the links below! I found value in each and every one of them while creating this project, so my hope is that you will to!
 
-* [AI Application](https://youtu.be/vpvtZZi5ZWk?si=-LBo_eWYiC6Eet0M) - Special thank you to _JavaScript Mastery_ for the tutorial!
-* [React Icons - Installation ](https://www.npmjs.com/package/react-icons)
+* [Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ?si=2ec5nZEWd7a7sYll) - Special thank you to _JavaScript Mastery_ for the tutorial!
+* [Shadcn/ui ](https://www.npmjs.com/package/react-icons)
 * [React Icons](https://react-icons.github.io/react-icons/)
 * [Rapid API - Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
