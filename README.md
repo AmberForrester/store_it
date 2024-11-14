@@ -13,7 +13,7 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 <br />
 <br />
 
-<a href="https://storeit.amberforrester.io">StoreIt Live Link</a>
+<a href="www.storeit.amberforrester.io">StoreIt Live Link</a>
 .
 <a href="https://github.com/AmberForrester/store_it">Source Code</a>
 
