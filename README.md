@@ -114,8 +114,6 @@ Use the key provided after creating your account and new project with [Appwrite]
 
 This step will prevent the `.env.local` file from being tracked by Git and keep your sensitive credentials secure. 
 
-<p align="right">(<a href="#readme-top">top of page</a>)</p>
-
 
 
 ### How to Run the Application
@@ -126,6 +124,19 @@ This step will prevent the `.env.local` file from being tracked by Git and keep 
    ```
 
 2. Paste `http://localhost:3000` in your browser to view the project.
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
+
+
+
+# Home Page 
+<img src="/public/assets/images/StoreItHome.png" alt="StoreIt home page">
+
+# OTP Verification
+<img src="/public/assets/images/OTPVerification.png" alt="OTP Verfication page">
+
+# Storage Dashboard
+<img src="/public/assets/images/StorageDashboard.png" alt="Storage Dashboard">
 
 
 
