@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-<h1 align="center">StoreIt | File Sharing and Storage Platform :mechanical_arm::brain:</h1> 
+<h1 align="center">StoreIt | File Sharing and Storage Platform 📥</h1> 
 
 <div align="center">
 
@@ -13,7 +13,7 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 <br />
 <br />
 
-<a href="https://quickgist.amberforrester.io">QuickGist Live Link</a>
+<a href="https://storeit.amberforrester.io">QuickGist Live Link</a>
 .
 <a href="https://github.com/AmberForrester/QuickGist"><strong>Source Code</strong></a>
 
