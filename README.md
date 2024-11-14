@@ -6,10 +6,10 @@
 
 <img src="/public/assets/images/StorageDashboard.png" alt="Picture of QuickGist an open-source summarizer that converts lengthy articles into clear and concise insights.">
 
-<p align="center">StoreIt is a sleek, modern storage and file-sharing platform, inspired by Google Drive that takes the hassle out of managing files. Built with the cutting edge- Next.js 15 and supercharged by the Appwrite Node SDK, it lets you upload, organize, and share your files with ease. 
+<p align="center">StoreIt is a modern storage and file-sharing platform, inspired by Google Drive that takes the hassle out of managing files with style. Built using Next.js 15 featuring beautifully customized shadcn/ui components while being supercharged with Appwrite Node SDK, it lets you upload, organize, and share your files with ease. 
 <br/>
 <br/>
-Whether you are a solo user or team, StoreIt keeps your files just a click away, ready to go whereever you need them. Dive in and take control of your digital storage like never before! 
+Whether you are a solo user or a team, StoreIt keeps your files just a click away ready to go wherever you need them. Allowing you to dive in and take control of your digital storage like never before! 
 <br />
 <br />
 
