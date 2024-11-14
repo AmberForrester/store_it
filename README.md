@@ -11,7 +11,6 @@
 <br/>
 Whether you are a solo user or a team, StoreIt keeps your files just a click away ready to go wherever you need them. Allowing you to dive in and take control of your digital storage like never before! 
 <br />
-<br />
 
 <a href="www.storeit.amberforrester.io">StoreIt Live Link</a>
 
