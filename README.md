@@ -14,11 +14,12 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 <br />
 
 <a href="www.storeit.amberforrester.io">StoreIt Live Link</a>
-.
-<a href="https://github.com/AmberForrester/store_it">Source Code</a>
+
 
 
 <br />
+<a href="https://github.com/AmberForrester/store_it">Source Code</a>
+.
 <a href="https://github.com/AmberForrester/store_it/issues/new?assignees=&labels=bug&projects=&template=bug-report-%F0%9F%90%9E.md&title=">Report Bug</a>
 .
 <a href="https://github.com/AmberForrester/store_it/issues/new?assignees=&labels=enhancement&projects=&template=feature-request-%F0%9F%9A%80.md&title=">Request Feature</a>
@@ -63,7 +64,7 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 - [Shadcn/ui](https://ui.shadcn.com/)
 - [Node.js](https://nodejs.org/en)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Appwrite](https://appwrite.io/) Create an account to receive your Appwrite credentials, and create a new project.
+- [Appwrite](https://appwrite.io/) - Create an account to receive your Appwrite credentials, and create a new project.
 
 
 
