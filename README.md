@@ -60,6 +60,8 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 
 <img src="/public/assets/images/ProjectStructure.png" alt="Picture of the project structure in Visual Studio Code">
 
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
+
 
 
 ## Installation
