@@ -55,12 +55,13 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 
 ## Installation
 
-### Prerequisites
-- **Next.js:** [NEXT.js](https://nextjs.org/).
-- **Shadcn/ui:** [shadcn/ui](https://ui.shadcn.com/)
-- **Node.js:** [Node.js](https://nodejs.org/en)
-- **Tailwind CSS:** [Tailwind CSS](https://tailwindcss.com/)
-- **Appwrite:** [Appwrite](https://appwrite.io/) Create an account to receive your Appwrite credentials, and create a new project.
+### Prerequisite Tech Stacks
+- [NEXT.js 15](https://nextjs.org/)
+- [React 19](https://react.dev/)
+- [Shadcn/ui](https://ui.shadcn.com/)
+- [Node.js](https://nodejs.org/en)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Appwrite](https://appwrite.io/) Create an account to receive your Appwrite credentials, and create a new project.
 
 
 
@@ -71,12 +72,12 @@ Keep in mind, they are specific to using Windows.
 
 1. **Clone the Repository:**
   ```bash
-  git clone https://github.com/AmberForrester/QuickGist
+  git clone https://github.com/AmberForrester/store_it
   ```
 
 2. **Navigate to the project directory:**
   ```bash
-  cd QuickGist
+  cd store_it
   ```
 
 3. **Install Required Dependencies:** 
@@ -88,24 +89,30 @@ Run the following command to install the project dependencies using npm:
 
 4. **Set Up Environment Variables:**
 
-Create a new file named `.env` in the root of your project directory and add the following:
+Create a new file named `.env.local` in the root of your project directory and add the following:
    ```bash
-   VITE_RAPID_API_ARTICLE_KEY=your_rapid_api_key
+  NEXT_PUBLIC_APPWRITE_ENDPOINT="https://cloud.appwrite.io/v1"
+  NEXT_PUBLIC_APPWRITE_PROJECT=""
+  NEXT_PUBLIC_APPWRITE_DATABASE=""
+  NEXT_PUBLIC_APPWRITE_USERS_COLLECTION=""
+  NEXT_PUBLIC_APPWRITE_FILES_COLLECTION=""
+  NEXT_PUBLIC_APPWRITE_BUCKET=""
+  NEXT_APPWRITE_KEY=""
    ```
 
-Use the key provided after creating your account with [Rapid API](https://rapidapi.com/). 
+Use the key provided after creating your account and new project with [Appwrite](https://appwrite.io/). 
 
-5. **Add `.env` to `.gitignore`**
+5. **Add `.env.local` to `.gitignore`**
 
 > [!CAUTION]
 > To ensure your sensitive information does not get committed to version control:
   - Open (or create) the `.gitignore` file in the root directory.
   - Add the following line to the file:
    ```
-   .env
+   .env.local
    ```
 
-This step will prevent the `.env` file from being tracked by Git and keep your sensitive credentials secure. 
+This step will prevent the `.env.local` file from being tracked by Git and keep your sensitive credentials secure. 
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
@@ -118,7 +125,7 @@ This step will prevent the `.env` file from being tracked by Git and keep your s
    npm run dev
    ```
 
-2. Paste `http://localhost:5173` in your browser to view the project.
+2. Paste `http://localhost:3000` in your browser to view the project.
 
 
 
@@ -164,14 +171,8 @@ Please take some time to check out the links below! I found value in each and ev
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
 
-<p align="right">(<a href="#readme-top">top of page</a>)</p>
-
-
-
-
-
-
-
+> [!TIP]
+> Source links to assist you with OTP Log In, Log Out, and Next.js Server Action:
 Sources:
  OTP Log In
 - https://appwrite.io/docs/products/auth/email-otp/
@@ -191,3 +192,7 @@ Sources:
 - https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-6/
 - https://appwrite.io/docs/tutorials/nuxt-ssr-auth/step-6/
 - https://appwrite.io/docs/tutorials/nuxt-ssr-auth/step-5/
+
+
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
