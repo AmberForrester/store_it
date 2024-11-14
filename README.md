@@ -162,33 +162,29 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Please take some time to check out the links below! I found value in each and every one of them while creating this project, so my hope is that you will to!
 
 * [Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ?si=2ec5nZEWd7a7sYll) - Special thank you to _JavaScript Mastery_ for the tutorial!
-* [Shadcn/ui ](https://www.npmjs.com/package/react-icons)
-* [React Icons](https://react-icons.github.io/react-icons/)
-* [Rapid API - Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
 * [Formatting Syntax: GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
 
-> [!TIP]
-> Source links below will assist you with OTP Log In, Next.js Server Action, and Log Out:
->
-> OTP Log In - 
-> https://appwrite.io/docs/products/auth/email-otp/ <br/>
-> https://appwrite.io/docs/tutorials/astro-ssr-auth/step-6/ <br/>
-> https://appwrite.io/docs/tutorials/sveltekit-csr-auth/step-6/ <br/>
->
-> Next.js Server Action - sign in the user using OTP
-> https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-5/ <br/>
-> https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-7/ <br/>
-> https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-6/ <br/>
-> https://appwrite.io/docs/tutorials/nuxt-ssr-auth/step-6/ <br/>
-> https://appwrite.io/docs/tutorials/nuxt-ssr-auth/step-5/ <br/>
->
-> Log Out
-> https://appwrite.io/docs/tutorials/astro-ssr-auth/step-6/ <br/>
-> https://appwrite.io/docs/tutorials/nuxt-ssr-auth/step-6/ <br/>
-> https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-6/ <br/>
+Source links below will assist you with OTP Log In, Next.js Server Action, and Log Out -
+
+OTP Log In - 
+- https://appwrite.io/docs/products/auth/email-otp/ 
+- https://appwrite.io/docs/tutorials/astro-ssr-auth/step-6/
+- https://appwrite.io/docs/tutorials/sveltekit-csr-auth/step-6/ 
+
+Next.js Server Action - sign in the user using OTP
+- https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-5/ 
+- https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-7/ 
+- https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-6/ 
+- https://appwrite.io/docs/tutorials/nuxt-ssr-auth/step-6/ 
+- https://appwrite.io/docs/tutorials/nuxt-ssr-auth/step-5/ 
+
+Log Out
+- https://appwrite.io/docs/tutorials/astro-ssr-auth/step-6/ 
+- https://appwrite.io/docs/tutorials/nuxt-ssr-auth/step-6/ 
+- https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-6/ 
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
