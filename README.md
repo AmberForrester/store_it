@@ -28,6 +28,7 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#project-structure">Project Structure</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#steps-to-install">Steps to Install</a></li>
@@ -52,6 +53,12 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 - **Modern, Responsive Design:** Enjoy a clean, minimalist UI that prioritizes usability, offering a seamless experience across all devices.
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
+
+
+
+## Project Structure
+
+<img src="/public/assets/images/ProjectStructure.png" alt="Picture of the project structure in Visual Studio Code">
 
 
 
