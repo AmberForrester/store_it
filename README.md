@@ -214,6 +214,6 @@ Log Out:
 - https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-6/ 
 
 > [!TIP]
-> Supercharge your Next.js deployment process with the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) directly from the creators of Next.js
+> Supercharge your Next.js deployment process with the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
