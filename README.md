@@ -66,13 +66,14 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 
 ## Installation
 
-### Prerequisite Tech Stacks
+### Prerequisites
 - [NEXT.js 15](https://nextjs.org/)
 - [React 19](https://react.dev/)
 - [Shadcn/ui](https://ui.shadcn.com/)
 - [Node.js](https://nodejs.org/en)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Appwrite](https://appwrite.io/) - Create an account to receive your Appwrite credentials, and create a new project.
+- [Appwrite](https://appwrite.io/)
+- [Figma](https://www.figma.com/)
 
 
 
@@ -186,6 +187,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Please take some time to check out the links below! I found value in each and every one of them while creating this project, so my hope is that you will to!
 
 * [Google Drive Clone with Next.js 15](https://youtu.be/lie0cr3wESQ?si=2ec5nZEWd7a7sYll) - Special thank you to _JavaScript Mastery_ for the tutorial!
+* [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
 * [Formatting Syntax: GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -210,5 +212,8 @@ Log Out:
 - https://appwrite.io/docs/tutorials/astro-ssr-auth/step-6/ 
 - https://appwrite.io/docs/tutorials/nuxt-ssr-auth/step-6/ 
 - https://appwrite.io/docs/tutorials/nextjs-ssr-auth/step-6/ 
+
+> [!TIP]
+> Deploy your Next.js application using the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) directly from the creators of Next.js
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
