@@ -67,8 +67,8 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 ## Installation
 
 ### Prerequisites
-- [NEXT.js 15](https://nextjs.org/)
-- [React 19](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
 - [Shadcn/ui](https://ui.shadcn.com/)
 - [Node.js](https://nodejs.org/en)
 - [Tailwind CSS](https://tailwindcss.com/)
