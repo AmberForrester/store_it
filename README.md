@@ -43,14 +43,14 @@ Whether you are a solo user or a team, StoreIt keeps your files just a click awa
 
 
 ## Features
-- **Secure User Authentication with Appwrite:** Enable easy signup, login, and logout functions powered by Appwrite’s robust authentication system for a safe user experience.
-- **Effortless File Uploads:** Upload various file types—documents, images, videos, and audio—seamlessly, ensuring all your important data is securely stored.
-- **Comprehensive File Management:** Automatically saves summaries in your local storage, allowing you to access and manage your reading history effortlessly. 
-- **Simple File Sharing:** Share uploaded files effortlessly, fostering collaboration and granting others easy access to vital content.
-- **Insightful Dashboard Overview:** Get a quick overview of your storage with a dynamic dashboard displaying total and consumed storage, recent uploads, and a categorized file summary.
-- **Advanced Global Search:** Find files and shared content across the platform swiftly with an enhanced global search feature for quick access.
-- **Flexible Sorting Options:** Organize files by date, name, or size, ensuring smooth and efficient file management tailored to your needs.
-- **Modern, Responsive Design:** Enjoy a clean, minimalist UI that prioritizes usability, offering a seamless experience across all devices.
+- **Robust Authentication System:** Implemented secure and seamless user authentication using Appwrite, including OTP verification for enhanced security.
+- **Efficient File Uploading:** Designed a smooth file upload process for diverse file types, ensuring optimal performance and secure storage of documents, images, videos, and more.
+- **Advanced File Management:** Developed a comprehensive file management system featuring real-time organization, categorization, and summary storage for an effortless user experience.
+- **Streamlined File Sharing:** Enabled hassle-free file sharing capabilities, fostering collaboration with secure access controls.
+- **Insightful Dashboard:** Built a dynamic dashboard that provides users with a visual overview of their storage usage, recent uploads, and categorized file summaries.
+- **Powerful Global Search:** Integrated a robust global search feature for quickly locating files, shared content, and resources across the platform.
+- **Customizable Sorting Options:** Delivered flexible file sorting by name, size, or date to improve efficiency and user productivity.
+- **Modern UI/UX Design:** Leveraged Tailwind CSS and shadcn/ui to craft a sleek, responsive, and intuitive interface that works flawlessly across all devices.
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
